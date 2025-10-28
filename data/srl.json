@@ -1,18 +1,1 @@
-[
-  {
-    "id": "fac9194a-c392-40c7-81ee-de6de28c8a44",
-    "nume": "2",
-    "tip": "Benzinarie",
-    "locatie": "2",
-    "proprietar": {
-      "nume": "2",
-      "prenume": "2",
-      "cnp": "2",
-      "telefon": "2"
-    },
-    "coproprietar": null,
-    "manager": null,
-    "denumire": "1",
-    "status": "1"
-  }
-]
+[]
