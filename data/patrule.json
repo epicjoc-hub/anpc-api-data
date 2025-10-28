@@ -21,5 +21,15 @@
     "observatii": "1",
     "startedAt": 1761666597203,
     "stoppedAt": 1761669601578
+  },
+  {
+    "id": "978c6d75-794c-4e79-83ca-1498a5251b54",
+    "membri": [
+      "1"
+    ],
+    "zona": "1",
+    "observatii": "1",
+    "startedAt": 1761673102666,
+    "stoppedAt": null
   }
 ]
