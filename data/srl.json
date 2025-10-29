@@ -18,5 +18,21 @@
       "validUntil": "2025-12-26",
       "issuedAt": "2025-10-29T17:39:28.088Z"
     }
+  },
+  {
+    "id": "1761760207661",
+    "nume": "SC.HOOLIGANS DIVISION S.R.L",
+    "tip": "Service",
+    "locatie": "Service Grove Street",
+    "proprietar": {
+      "nume": "Genovese",
+      "prenume": "Madalina",
+      "cnp": "6285",
+      "telefon": "4330757"
+    },
+    "coproprietar": null,
+    "manager": null,
+    "status": "Activ",
+    "createdAt": "2025-10-29T17:50:07.661Z"
   }
 ]
