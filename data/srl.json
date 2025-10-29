@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "1761759526564",
+    "nume": "Garda Auto Custom",
+    "tip": "Service",
+    "locatie": "Service Sandy Shores",
+    "proprietar": {
+      "nume": "Don",
+      "prenume": " Stefan",
+      "cnp": "3740",
+      "telefon": "777-6666"
+    },
+    "coproprietar": null,
+    "manager": null,
+    "status": "Activ",
+    "createdAt": "2025-10-29T17:38:46.564Z"
+  }
+]
