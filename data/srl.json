@@ -33,6 +33,10 @@
     "coproprietar": null,
     "manager": null,
     "status": "Activ",
-    "createdAt": "2025-10-29T17:50:07.661Z"
+    "createdAt": "2025-10-29T17:50:07.661Z",
+    "aviz": {
+      "validUntil": "2025-14-12",
+      "issuedAt": "2025-10-29T17:51:38.436Z"
+    }
   }
 ]
